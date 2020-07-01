@@ -123,6 +123,29 @@
 }
 
 @media all and (max-width:670px){
+  .main h1{
+    font-size:40px;
+    letter-spacing:2px;
+    padding-top:100px;
+    opacity:1;
+    margin-bottom:10px;
+  }
+  .main h2{
+    font-size:40px;
+    letter-spacing:2px;
+    opacity:1;
+  }
+  .main p{
+    font-size:20px;
+    opacity:1;
+    margin-bottom:10px;
+  }
+  .btn p{
+    margin:30px 0;
+    color:grey;
+    
+  }
+  
   .header-kanan{
     display:none;
   }
@@ -142,6 +165,6 @@
     width:100%;
   }
   .main-add h2{
-    margin-top:800px;
+    margin-top:100px;
   }
 }
