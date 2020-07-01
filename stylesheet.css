@@ -126,7 +126,7 @@
   .main h1{
     font-size:40px;
     letter-spacing:2px;
-    padding-top:50px;
+    padding-top:10px;
     opacity:1;
     margin-bottom:10px;
   }
@@ -165,6 +165,6 @@
     width:100%;
   }
   .main-add h2{
-    margin-top:30px;
+    margin-top:0px;
   }
 }
